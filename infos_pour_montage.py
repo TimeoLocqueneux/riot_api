@@ -1,9 +1,9 @@
 from functions import *
 
 # Your Riot Games API key
-api_key = 'RGAPI-00e1b621-616a-4696-bb6c-ec797c25fbe3' # Ensure this is correct and up-to-date
+api_key = ''
 
-# Region (account-v1 endpoints don't require specific regional routing, using the common routing endpoint)
+
 region = 'europe'  # This can be 'americas', 'asia', or 'europe' based on your account region
 region2 = 'euw1'
 
